@@ -12,9 +12,9 @@ Running a business means managing cash flow carefully. Many payment processors w
 <br>
 For Support (birdshost.com)
 
-== Screenshot ==
+== Screenshots ==
+1. payment gateway
 
-payment gateway
 
 
 == Installation ==
