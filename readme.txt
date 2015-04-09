@@ -11,6 +11,7 @@ Stable tag: 4.3
 Running a business means managing cash flow carefully. Many payment processors will hold your funds for days, and sometimes even weeks. <br>
 <br>
 For Support (birdshost.com)
+Donate Paypal: info@birdshost.com
 
 == Screenshots ==
 1. payment gateway
