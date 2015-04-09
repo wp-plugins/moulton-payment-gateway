@@ -14,7 +14,8 @@ For Support (birdshost.com)
 Donate Paypal: info@birdshost.com
 
 == Screenshots ==
-1. payment gateway
+1. Payment
+2. Logo
 
 
 
