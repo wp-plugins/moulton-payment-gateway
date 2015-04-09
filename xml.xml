@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order version="2.1">
+    <OrderHeader>
+        <GROUP_CODE>TEST</GROUP_CODE>
+        <DATE_ORD>20150120</DATE_ORD>
+        <CL_NO>20</CL_NO>
+        <CSOURCE>1521000</CSOURCE>
+        <CMEDIA>test</CMEDIA>
+        <CREDCD>4111111111111111</CREDCD>
+        <EXPDT>1216</EXPDT>
+        <PROJECT>proj1</PROJECT>
+        <AMTPAY/>
+        <MICRCODE/>
+        <PAY_TYPE>C</PAY_TYPE>
+        <NUM_PYMNTS>1</NUM_PYMNTS>
+        <EMAIL>test@test12345.com</EMAIL>
+        <COMPANY/>
+        <F_NAME>JOHN</F_NAME>
+        <L_NAME>DOE</L_NAME>
+        <ADDR_1>123 MAIN ST</ADDR_1>
+        <ADDR_2/>
+        <CITY>BEVERLY HILLS</CITY>
+        <ST>CA</ST>
+        <ZIP>90210</ZIP>
+        <PHONE>8181111111</PHONE>
+        <COUNTRY_CODE>US</COUNTRY_CODE>
+        <OPT_IN/>
+        <OPT_OUT/>
+        <ADJ_CODE/>
+        <AMT_DISC/>
+        <BILL_TO_COMPANY/>
+        <BILL_TO_F_NAME>JOHN</BILL_TO_F_NAME>
+        <BILL_TO_L_NAME>DOE</BILL_TO_L_NAME>
+        <BILL_TO_ADDR_1>123 MAIN ST</BILL_TO_ADDR_1>
+        <BILL_TO_ADDR_2/>
+        <BILL_TO_CITY>BEVERLY HILLS</BILL_TO_CITY>
+        <BILL_TO_ST>CA</BILL_TO_ST>
+        <BILL_TO_ZIP>90210</BILL_TO_ZIP>
+        <BILL_TO_COUNTRY_CODE>US</BILL_TO_COUNTRY_CODE>
+        <UNIQUE-ID>2712q</UNIQUE-ID>
+        <HAS_FINANCIAL>Y</HAS_FINANCIAL>
+        <HAS_GIFT_REC/>
+        <HAS_CSTM/>
+    </OrderHeader>
+    <OrderDetail>
+        <LineItem>
+            <QUANTITY_ORDERED>1</QUANTITY_ORDERED>
+            <OFFER_CODE>DMDR191-01</OFFER_CODE>
+        </LineItem>
+    </OrderDetail>
+    
+    <Financial>
+        <TRANSACTION_ID>12121</TRANSACTION_ID>
+    </Financial>
+</Order>
