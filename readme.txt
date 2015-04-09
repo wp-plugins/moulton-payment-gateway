@@ -1,4 +1,4 @@
-=== Noulton Gateway ===
+=== Moulton Gateway ===
 Contributors: Birds Host
 Donate Paypal: info@birdshost.com
 Tags: Payment, Wordpress, Gateway,
